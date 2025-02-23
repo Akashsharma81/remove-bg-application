@@ -1,1 +1,1 @@
-# first-application
+# remove-bg-application
